@@ -11,13 +11,13 @@ Function 3: deleteSupply(input, quantity, coffeeArray)
 The purpose of this function is to delete additional coffee to the text file (supply.txt).
 
 The following additional function were created to ensure going coding practices by limiting reducing the code inside the function by calling other functions that shared functionality with other functions:
-      
-      createArray()
-      
-      coffeeCount(coffee)
-      
-      coffeeInputValidation(input)
-      
-      convertToFullName(input)
-      
-      convertToFullNameNoEOL(input)
+
+createArray()
+
+coffeeCount(coffee)
+
+coffeeInputValidation(input)
+
+convertToFullName(input)
+
+convertToFullNameNoEOL(input)
